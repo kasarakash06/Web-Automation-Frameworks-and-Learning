@@ -17,7 +17,7 @@ import org.testng.Assert;
 import wizehub.pageobjects.LandingPage;
 
 public class StandAloneTest {
-
+//addedcomment
 	public static void main(String[] args) {
 
 		WebDriver driver = new ChromeDriver();
